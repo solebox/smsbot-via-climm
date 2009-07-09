@@ -6,4 +6,4 @@ hope it works for you and have a nice day
 
 ah yes, 
 chmod +x main.rb #to make it executable
-./main #to execute it
+./main.rb #to execute it
