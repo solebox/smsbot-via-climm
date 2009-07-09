@@ -2,3 +2,8 @@ add accounts to the accounts.txt as the format shown there
 install climm, run the proggie :)
 
 hope it works for you and have a nice day
+
+
+ah yes, 
+chmod +x main.rb #to make it executable
+./main #to execute it

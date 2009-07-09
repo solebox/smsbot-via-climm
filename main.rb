@@ -1,3 +1,4 @@
+#!/usr/bin/ruby -w
 BEGIN {
 	if File.exists?("data.ini")
 		File.open("data.ini") do |f|
